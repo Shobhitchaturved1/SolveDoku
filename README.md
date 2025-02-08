@@ -23,13 +23,15 @@ A powerful and interactive **Sudoku Solver** with a graphical interface, built u
 
 ## 🎯 **How to Run the Project**
 ### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/SolveDoku.git
+
+git clone https://github.com/Shobhitchaturved1/SolveDoku.git
 cd SolveDoku
 
-2️⃣ Install Dependencies
+
+### 2️⃣ Install Dependencies
 
 pip install pygame
+
 
 3️⃣ Run the Application
 
