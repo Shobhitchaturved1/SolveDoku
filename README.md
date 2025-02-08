@@ -1,4 +1,5 @@
 SolveDoku - The Ultimate Sudoku Solver 🧩
+
 A powerful and interactive Sudoku Solver with a graphical interface, built using Python and Pygame. Solve puzzles instantly or visualize the solving process in real-time!
 
 
